@@ -1,4 +1,3 @@
-<style>
 body {
 	background: lightcyan;
 	width: 800px;
@@ -13,6 +12,4 @@ h1 {
 p {
 	color: gray;
 	border: 1px solid gray;
-	padding: 10px;
-}
-</style>
+	padding: 10
